@@ -1,17 +1,17 @@
 [
   {
     "title": "",
-    "json": "https://raw.githubusercontent.com/mantrabrain/yatri-prebuild-header-templates/master/header-template-1.json",
-    "thumbnail": "https://raw.githubusercontent.com/mantrabrain/yatri-prebuild-header-templates/master/header-template-1.png"
+    "json": "https://raw.githubusercontent.com/mantrabrain/yatri-prebuilt-header-templates/master/header-template-1.json",
+    "thumbnail": "https://raw.githubusercontent.com/mantrabrain/yatri-prebuilt-header-templates/master/header-template-1.png"
   },
   {
     "title": "",
-    "json": "https://raw.githubusercontent.com/mantrabrain/yatri-prebuild-header-templates/master/header-template-2.json",
-    "thumbnail": "https://raw.githubusercontent.com/mantrabrain/yatri-prebuild-header-templates/master/header-template-2.png"
+    "json": "https://raw.githubusercontent.com/mantrabrain/yatri-prebuilt-header-templates/master/header-template-2.json",
+    "thumbnail": "https://raw.githubusercontent.com/mantrabrain/yatri-prebuilt-header-templates/master/header-template-2.png"
   },
   {
     "title": "",
-    "json": "https://raw.githubusercontent.com/mantrabrain/yatri-prebuild-header-templates/master/header-template-3.json",
-    "thumbnail": "https://raw.githubusercontent.com/mantrabrain/yatri-prebuild-header-templates/master/header-template-3.png"
+    "json": "https://raw.githubusercontent.com/mantrabrain/yatri-prebuilt-header-templates/master/header-template-3.json",
+    "thumbnail": "https://raw.githubusercontent.com/mantrabrain/yatri-prebuilt-header-templates/master/header-template-3.png"
   }
 ]
