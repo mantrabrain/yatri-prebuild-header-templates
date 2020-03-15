@@ -1,0 +1,17 @@
+[
+  {
+    "title": "",
+    "json": "http://localhost/WordPressThemes/yatri/prebuild-header-templates/header-template-1.json",
+    "thumbnail": "http://localhost/WordPressThemes/yatri/prebuild-header-templates/header-template-1.png"
+  },
+  {
+    "title": "",
+    "json": "http://localhost/WordPressThemes/yatri/prebuild-header-templates/header-template-2.json",
+    "thumbnail": "http://localhost/WordPressThemes/yatri/prebuild-header-templates/header-template-2.png"
+  },
+  {
+    "title": "",
+    "json": "http://localhost/WordPressThemes/yatri/prebuild-header-templates/header-template-3.json",
+    "thumbnail": "http://localhost/WordPressThemes/yatri/prebuild-header-templates/header-template-3.png"
+  }
+]
