@@ -14,4 +14,9 @@
     "json": "https://raw.githubusercontent.com/mantrabrain/yatri-prebuilt-header-templates/master/header-template-3.json",
     "thumbnail": "https://raw.githubusercontent.com/mantrabrain/yatri-prebuilt-header-templates/master/header-template-3.png"
   }
+   {
+    "title": "",
+    "json": "https://raw.githubusercontent.com/mantrabrain/yatri-prebuilt-header-templates/master/header-template-4.json",
+    "thumbnail": "https://raw.githubusercontent.com/mantrabrain/yatri-prebuilt-header-templates/master/header-template-4.png"
+  }
 ]
